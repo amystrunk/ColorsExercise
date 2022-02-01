@@ -1,0 +1,47 @@
+/* color and rgb */
+h1 {
+    color: violet;
+    background-color: rgb(255, 0, 0);
+}
+/* hex with transparency and rgba */
+h2 {
+    color: #4b008299;
+    background-color: rgba(255, 165, 0, 50);
+}
+/* hex with transparency shorthand and hex */
+h3 {
+    color: #00ff;
+    background-color: #ffff00;
+}
+/* color and hex shorthand */
+h4 {
+    color: black;
+    background-color: #0f0;
+}
+/* hex and hex with transparency shorthand */
+h5 {
+    color: #ffff00;
+    background-color: #00ff;
+}
+/* rgba and hex with transparency */
+h6 {
+    color: rgba(255, 165, 0, 50);
+    background-color:#4b008299;
+}
+/* rgb and color name */
+p {
+    color: rgb(255, 0, 0);
+    background-color: violet;
+}
+/* bonus - ordered list */
+#first {
+    color: hotpink;
+}
+
+#third {
+    color: peachpuff;
+}
+
+.list {
+    border: solid 5px green;
+}
